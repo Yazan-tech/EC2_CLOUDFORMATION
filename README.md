@@ -1,7 +1,3 @@
-Here’s an engaging, professional, and attractive **README** content tailored for your CloudFormation template:
-
----
-
 # 🚀 **AWS EC2 CloudFormation Template**  
 
 This CloudFormation template simplifies the deployment of a **Linux-based Amazon EC2 instance** with robust configurations. It includes security measures and automation, making it ideal for hosting web applications or experimenting with AWS infrastructure.

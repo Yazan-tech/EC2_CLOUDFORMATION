@@ -78,7 +78,7 @@ Resources:
           sudo systemctl start httpd.service
           sudo systemctl enable httpd.service
         - {}
-
+ 
 Outputs:
   InstanceId:
     Description: InstanceId of the newly created EC2 instance
